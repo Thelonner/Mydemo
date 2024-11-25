@@ -8,4 +8,10 @@ int id;
 int salary;
 
 
+public void test() {
+	
+}
+
+
+
 }
