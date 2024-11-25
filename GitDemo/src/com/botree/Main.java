@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("A new Commit");
 		
 		System.out.println("changed by venkat");
+		System.out.println("commit");
 	}
 
 }
